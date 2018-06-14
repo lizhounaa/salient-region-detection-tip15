@@ -11,6 +11,7 @@ Flowchart of the proposed method. It contains three stages: abstracting the imag
 ## Results
 ![Results](./Fig/Fig10.png)
 
+Our visual image saliency maps compared to recently developed, state-of-the-art approaches. (a) The ASD data set. (b) The SOD data set. (c) The ECSSD data set.
 
 ## Citation
 
